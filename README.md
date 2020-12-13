@@ -29,3 +29,16 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 trusted-host = pypi.tuna.tsinghua.edu.cn
 ```
 
+## Install PyQt
+
+PyQt Official Tutorials: 
+- https://wiki.python.org/moin/PyQt/Tutorials
+- https://github.com/pyqt
+
+Pip install PyQt5
+
+```
+py -m pip install PyQt5
+```
+
+
